@@ -5,6 +5,7 @@ export const Filter = ({ filter, onFilterHandleChange }) => {
   const onHandleChange = event => {
     onFilterHandleChange(event.currentTarget.value);
   };
+
   return (
     <Label>
       Find contacts by name

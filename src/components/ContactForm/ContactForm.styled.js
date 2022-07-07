@@ -26,7 +26,7 @@ export const Input = styled.input`
   cursor: pointer;
   &:hover {
     border-color: #4682B4;
-   `;
+`;
 
 export const Button = styled.button`
   text-align: center;
